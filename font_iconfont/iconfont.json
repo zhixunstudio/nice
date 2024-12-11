@@ -1,0 +1,93 @@
+{
+  "id": "3852613",
+  "name": "kjwc",
+  "font_family": "element-icons",
+  "css_prefix_text": "el-icon-my-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "763156",
+      "name": "数据库",
+      "font_class": "suyaniconchanpinleibufenzuodaohangbufen84",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "1727380",
+      "name": "34模板、框架-线性",
+      "font_class": "mobankuangjia-xianxing",
+      "unicode": "e8a5",
+      "unicode_decimal": 59557
+    },
+    {
+      "icon_id": "5961392",
+      "name": "mysql",
+      "font_class": "mysql",
+      "unicode": "ec6d",
+      "unicode_decimal": 60525
+    },
+    {
+      "icon_id": "6352500",
+      "name": "版本号",
+      "font_class": "banbenhao",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "7987507",
+      "name": "系统",
+      "font_class": "xitong-",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "8514754",
+      "name": "设备名称",
+      "font_class": "shebeimingcheng",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "15644401",
+      "name": "云服务器",
+      "font_class": "yunfuwuqi",
+      "unicode": "e6d0",
+      "unicode_decimal": 59088
+    },
+    {
+      "icon_id": "25996933",
+      "name": "环境监测",
+      "font_class": "huanjingjiance",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "4766469",
+      "name": "file-excel",
+      "font_class": "file-excel",
+      "unicode": "e7b7",
+      "unicode_decimal": 59319
+    },
+    {
+      "icon_id": "4766476",
+      "name": "file-ppt",
+      "font_class": "file-ppt",
+      "unicode": "e7b9",
+      "unicode_decimal": 59321
+    },
+    {
+      "icon_id": "23500934",
+      "name": "资源共享",
+      "font_class": "ziyuangongxiang",
+      "unicode": "e868",
+      "unicode_decimal": 59496
+    },
+    {
+      "icon_id": "4766477",
+      "name": "file-word",
+      "font_class": "file-word",
+      "unicode": "e7ba",
+      "unicode_decimal": 59322
+    }
+  ]
+}

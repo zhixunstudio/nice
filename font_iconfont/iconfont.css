@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "element-icons"; /* Project id 3852613 */
+  src: url('iconfont.woff2?t=1673359669678') format('woff2'),
+       url('iconfont.woff?t=1673359669678') format('woff'),
+       url('iconfont.ttf?t=1673359669678') format('truetype');
+}
+
+.element-icons {
+  font-family: "element-icons" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-my-suyaniconchanpinleibufenzuodaohangbufen84:before {
+  content: "\e72d";
+}
+
+.el-icon-my-mobankuangjia-xianxing:before {
+  content: "\e8a5";
+}
+
+.el-icon-my-mysql:before {
+  content: "\ec6d";
+}
+
+.el-icon-my-banbenhao:before {
+  content: "\e672";
+}
+
+.el-icon-my-xitong-:before {
+  content: "\e605";
+}
+
+.el-icon-my-shebeimingcheng:before {
+  content: "\e627";
+}
+
+.el-icon-my-yunfuwuqi:before {
+  content: "\e6d0";
+}
+
+.el-icon-my-huanjingjiance:before {
+  content: "\e60f";
+}
+
+.el-icon-my-file-excel:before {
+  content: "\e7b7";
+}
+
+.el-icon-my-file-ppt:before {
+  content: "\e7b9";
+}
+
+.el-icon-my-ziyuangongxiang:before {
+  content: "\e868";
+}
+
+.el-icon-my-file-word:before {
+  content: "\e7ba";
+}
+
